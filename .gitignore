@@ -1,0 +1,3 @@
+# Local-only working files — never publish to GitHub Pages
+.ignore/
+.remember/
