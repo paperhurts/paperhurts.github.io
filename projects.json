@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T01:45:56.518Z",
+  "fetchedAt": "2026-09-25T02:25:10.308Z",
   "topic": "paperhurts-dev",
   "repos": [
     {
@@ -19,12 +19,36 @@
       "created": "2026-03-31T21:42:51Z"
     },
     {
+      "name": "get-off-my-stack",
+      "description": "A retro arcade browser game where a grumpy old-school programmer smacks bad code with a cane. Fight bloated JS bundles, if/else centipedes, node_modules, memory leaks, Dan’s fixes, and the dreaded SAP 1000-line IF/ELSE boss. Built in one evening as a joke. No npm packages were harmed.",
+      "language": "HTML",
+      "url": "https://github.com/paperhurts/get-off-my-stack",
+      "hasPages": true,
+      "created": "2026-03-20T02:44:16Z"
+    },
+    {
       "name": "gitmarks",
       "description": "Serverless cross-browser bookmark sync. Your bookmarks live as a JSON file in your own private GitHub repo; the extensions talk directly to the GitHub Contents API. No server, no backend.",
       "language": "TypeScript",
       "url": "https://github.com/paperhurts/gitmarks",
       "hasPages": true,
       "created": "2026-05-23T15:19:17Z"
+    },
+    {
+      "name": "hurricane-party",
+      "description": "lightweight music app to save playlists, videos, and music for offline enjoyment in case of hurricane",
+      "language": "Rust",
+      "url": "https://github.com/paperhurts/hurricane-party",
+      "hasPages": true,
+      "created": "2026-08-30T17:25:50Z"
+    },
+    {
+      "name": "net-profit",
+      "description": "A cosy isometric fishing tycoon for the browser. Tow a net through schools of fish, haul the catch home, build up the boat, build up the island, sail further, find bigger things.",
+      "language": "TypeScript",
+      "url": "https://github.com/paperhurts/net-profit",
+      "hasPages": true,
+      "created": "2026-09-17T02:10:42Z"
     },
     {
       "name": "server-start",

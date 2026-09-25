@@ -2,7 +2,18 @@
   "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards for things that aren't public repos.",
   "topic": "paperhurts-dev",
   "pagesHost": "https://paperhurts.dev/",
-  "order": ["gitmarks", "server-start", "window-snap", "claude-recall", "doc-md", "paperhurts-reader", "waterways"],
+  "order": [
+    "gitmarks",
+    "server-start",
+    "window-snap",
+    "claude-recall",
+    "doc-md",
+    "paperhurts-reader",
+    "waterways",
+    "net-profit",
+    "hurricane-party",
+    "get-off-my-stack"
+  ],
   "cards": {
     "gitmarks": {
       "label": "chrome + firefox · web",
@@ -31,6 +42,21 @@
       "label": "web · typescript + python",
       "blurb": "Where north Florida's rain goes: animated maps of every creek, spring, and sink between the Suwannee and the St. Johns, rebuilt from USGS data.",
       "url": "https://waterways.paperhurts.dev"
+    },
+    "net-profit": {
+      "label": "browser game · typescript",
+      "blurb": "A cosy isometric fishing tycoon. Tow a net through schools of fish, haul the catch home, build up the boat and the island, then sail further out for bigger things.",
+      "url": "https://paperhurts.dev/net-profit/"
+    },
+    "hurricane-party": {
+      "label": "windows · tauri",
+      "blurb": "An offline media library for hurricane season: save YouTube playlists, videos, and MP3s to disk before the internet goes down. Winamp-style skinnable windows that snap together.",
+      "url": "https://paperhurts.dev/hurricane-party/"
+    },
+    "get-off-my-stack": {
+      "label": "browser game · javascript",
+      "blurb": "A retro arcade game where a grumpy old-school programmer smacks bad code with a cane: bloated bundles, if/else centipedes, node_modules, and Dan's fixes. Built in one evening as a joke.",
+      "url": "https://paperhurts.dev/get-off-my-stack/"
     }
   },
   "extra": [
