@@ -46,7 +46,7 @@
     "net-profit": {
       "label": "browser game · typescript",
       "blurb": "A cosy isometric fishing tycoon. Tow a net through schools of fish, haul the catch home, build up the boat and the island, then sail further out for bigger things.",
-      "url": "https://paperhurts.dev/net-profit/"
+      "url": "https://net-profit.paperhurts.dev"
     },
     "hurricane-party": {
       "label": "windows · tauri",
