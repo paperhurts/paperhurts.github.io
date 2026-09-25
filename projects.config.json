@@ -1,7 +1,7 @@
 {
   "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards for things that aren't public repos.",
   "topic": "paperhurts-dev",
-  "pagesHost": "https://paperhurts.github.io/",
+  "pagesHost": "https://paperhurts.dev/",
   "order": ["gitmarks", "server-start", "window-snap", "claude-recall", "doc-md", "paperhurts-reader", "waterways"],
   "cards": {
     "gitmarks": {
