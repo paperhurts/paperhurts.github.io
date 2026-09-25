@@ -51,7 +51,7 @@
     "hurricane-party": {
       "label": "windows · tauri",
       "blurb": "An offline media library for hurricane season: save YouTube playlists, videos, and MP3s to disk before the internet goes down. Winamp-style skinnable windows that snap together.",
-      "url": "https://paperhurts.dev/hurricane-party/"
+      "url": "https://hurricane-party.paperhurts.dev"
     },
     "get-off-my-stack": {
       "label": "browser game · javascript",
