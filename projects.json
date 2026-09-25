@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-09-25T01:42:02.151Z",
+  "topic": "paperhurts-dev",
+  "repos": [
+    {
+      "name": "claude-recall",
+      "description": "Back up your Claude conversations when Anthropic's export doesn't work.  This tool connects to your logged-in Chrome, walks through your conversations, and saves everything — messages, thinking blocks, metadata — to a local SQLite database. Two commands: one to extract, one to backfill full thinking block content.",
+      "language": "Python",
+      "url": "https://github.com/paperhurts/claude-recall",
+      "hasPages": false,
+      "created": "2026-02-22T19:53:29Z"
+    },
+    {
+      "name": "doc-md",
+      "description": "A local-first markdown knowledge management app — an Obsidian alternative built with Tauri 2 (Rust) and Svelte 5.  Notes are stored as plain markdown files on disk. No proprietary formats, no cloud lock-in. Targets Windows, macOS, iOS, and Android from a single codebase.",
+      "language": "TypeScript",
+      "url": "https://github.com/paperhurts/doc-md",
+      "hasPages": true,
+      "created": "2026-03-31T21:42:51Z"
+    },
+    {
+      "name": "gitmarks",
+      "description": "Serverless cross-browser bookmark sync. Your bookmarks live as a JSON file in your own private GitHub repo; the extensions talk directly to the GitHub Contents API. No server, no backend.",
+      "language": "TypeScript",
+      "url": "https://github.com/paperhurts/gitmarks",
+      "hasPages": true,
+      "created": "2026-05-23T15:19:17Z"
+    },
+    {
+      "name": "server-start",
+      "description": "Windows system tray app for managing dev servers   across multiple projects",
+      "language": "Rust",
+      "url": "https://github.com/paperhurts/server-start",
+      "hasPages": true,
+      "created": "2026-04-03T21:02:32Z"
+    },
+    {
+      "name": "waterways",
+      "description": null,
+      "language": "TypeScript",
+      "url": "https://github.com/paperhurts/waterways",
+      "hasPages": true,
+      "created": "2026-09-24T02:00:54Z"
+    },
+    {
+      "name": "window-snap",
+      "description": "Custom window arrangement system tray app for Windows 11. Snap windows into predefined layouts with hotkeys.",
+      "language": "Rust",
+      "url": "https://github.com/paperhurts/window-snap",
+      "hasPages": true,
+      "created": "2026-02-18T15:46:42Z"
+    }
+  ]
+}

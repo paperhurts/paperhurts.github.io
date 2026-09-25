@@ -1,0 +1,44 @@
+{
+  "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards for things that aren't public repos.",
+  "topic": "paperhurts-dev",
+  "pagesHost": "https://paperhurts.github.io/",
+  "order": ["gitmarks", "server-start", "window-snap", "claude-recall", "doc-md", "paperhurts-reader", "waterways"],
+  "cards": {
+    "gitmarks": {
+      "label": "chrome + firefox · web",
+      "blurb": "Serverless cross-browser bookmark sync. Your bookmarks live in your own private GitHub repo — no server, no backend, your data.",
+      "privacy": "privacy.html"
+    },
+    "server-start": {
+      "label": "windows tray · rust",
+      "blurb": "Manage dev servers from the task tray — start, stop, and restart any project's processes without hunting for terminals. One .exe, zero dependencies.",
+      "privacy": "PRIVACY.html"
+    },
+    "window-snap": {
+      "label": "windows tray · rust",
+      "blurb": "Custom window layouts for Windows 11 — one hotkey arranges your whole desktop, because snap layouts should be better.",
+      "privacy": "privacy.html"
+    },
+    "claude-recall": {
+      "label": "cli · python",
+      "blurb": "Back up your Claude conversations — messages, thinking blocks, metadata — to a local SQLite database you own."
+    },
+    "doc-md": {
+      "label": "desktop + mobile · tauri",
+      "blurb": "Local-first markdown knowledge base — an Obsidian alternative. Plain files on disk, no proprietary formats, no cloud lock-in."
+    },
+    "waterways": {
+      "label": "web · typescript + python",
+      "blurb": "Where north Florida's rain goes: animated maps of every creek, spring, and sink between the Suwannee and the St. Johns, rebuilt from USGS data.",
+      "url": "https://waterways.paperhurts.dev"
+    }
+  },
+  "extra": [
+    {
+      "name": "paperhurts-reader",
+      "label": "pwa + ios · self-hosted",
+      "blurb": "Distraction-free fanfiction reader — share a link from your phone to import, read offline, listen with lock-screen TTS. A self-hosted PWA with a native iOS app.",
+      "url": "https://paperhurts.com"
+    }
+  ]
+}
