@@ -1,0 +1,12 @@
+{
+  "name": "paperhurts-dev",
+  "private": true,
+  "type": "module",
+  "description": "paperhurts.dev, the studio homepage",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "fetch": "node scripts/build.mjs --fetch",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
