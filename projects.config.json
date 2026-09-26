@@ -64,7 +64,7 @@
       "name": "paperhurts-reader",
       "label": "pwa + ios · self-hosted",
       "blurb": "Distraction-free fanfiction reader — share a link from your phone to import, read offline, listen with lock-screen TTS. A self-hosted PWA with a native iOS app.",
-      "url": "https://paperhurts.com"
+      "url": "https://reader.paperhurts.dev"
     }
   ]
 }
