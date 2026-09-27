@@ -5,7 +5,7 @@
       "name": "site",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
-      "port": 4190
+      "port": 5110
     }
   ]
 }

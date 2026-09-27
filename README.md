@@ -20,7 +20,7 @@ This repo is the GitHub **user site** (`paperhurts.github.io`) with the custom d
 ## Develop
 
 ```bash
-npm run dev      # build from the committed projects.json and serve at http://localhost:4190
+npm run dev      # build from the committed projects.json and serve at http://localhost:5110
 npm run fetch    # refresh projects.json from the GitHub API, then build
 ```
 

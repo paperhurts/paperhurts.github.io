@@ -1,9 +1,9 @@
-// Serves dist/ for local preview: node scripts/serve.mjs  → http://localhost:4190
+// Serves dist/ for local preview: node scripts/serve.mjs  → http://localhost:5110
 import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { extname, normalize } from "node:path";
 
-const PORT = Number(process.env.PORT) || 4190;
+const PORT = Number(process.env.PORT) || 5110;
 const TYPES = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".json": "application/json", ".png": "image/png", ".woff2": "font/woff2" };
 const dist = new URL("../dist/", import.meta.url);
 
