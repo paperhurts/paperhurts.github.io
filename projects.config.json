@@ -1,5 +1,5 @@
 {
-  "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards for things that aren't public repos.",
+  "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards that don't come from a tagged repo.",
   "topic": "paperhurts-dev",
   "pagesHost": "https://paperhurts.dev/",
   "order": [
@@ -10,6 +10,7 @@
     "doc-md",
     "paperhurts-reader",
     "waterways",
+    "fl-traffic",
     "net-profit",
     "hurricane-party",
     "get-off-my-stack"
@@ -65,6 +66,12 @@
       "label": "pwa + ios · self-hosted",
       "blurb": "Distraction-free fanfiction reader — share a link from your phone to import, read offline, listen with lock-screen TTS. A self-hosted PWA with a native iOS app.",
       "url": "https://reader.paperhurts.dev"
+    },
+    {
+      "name": "fl-traffic",
+      "label": "web · typescript",
+      "blurb": "A live map of Florida's roads, built around the drives you make: FL511's crashes, closures, and nearly 5,000 cameras, TomTom's speeds on every road, radar, and beach cams.",
+      "url": "https://fl-traffic.paperhurts.dev"
     }
   ]
 }
