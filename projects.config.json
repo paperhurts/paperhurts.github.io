@@ -10,6 +10,7 @@
     "doc-md",
     "paperhurts-reader",
     "waterways",
+    "fl-traffic",
     "net-profit",
     "hurricane-party",
     "get-off-my-stack"
@@ -42,6 +43,11 @@
       "label": "web · typescript + python",
       "blurb": "Where north Florida's rain goes: animated maps of every creek, spring, and sink between the Suwannee and the St. Johns, rebuilt from USGS data.",
       "url": "https://waterways.paperhurts.dev"
+    },
+    "fl-traffic": {
+      "label": "web · typescript",
+      "blurb": "A live map of Florida's roads, built around the drives you make: FL511's crashes, closures, and nearly 5,000 cameras, TomTom's speeds on every road, radar, and beach cams.",
+      "url": "https://fl-traffic.paperhurts.dev"
     },
     "net-profit": {
       "label": "browser game · typescript",
