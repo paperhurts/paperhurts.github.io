@@ -1,5 +1,5 @@
 {
-  "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards for things that aren't public repos.",
+  "about": "Homepage project cards. Any public paperhurts repo tagged with the GitHub topic below shows up automatically, using its description and main language. Entries here are optional: they pin the order and polish the card copy. `extra` holds cards that don't come from a tagged repo.",
   "topic": "paperhurts-dev",
   "pagesHost": "https://paperhurts.dev/",
   "order": [
@@ -44,11 +44,6 @@
       "blurb": "Where north Florida's rain goes: animated maps of every creek, spring, and sink between the Suwannee and the St. Johns, rebuilt from USGS data.",
       "url": "https://waterways.paperhurts.dev"
     },
-    "fl-traffic": {
-      "label": "web · typescript",
-      "blurb": "A live map of Florida's roads, built around the drives you make: FL511's crashes, closures, and nearly 5,000 cameras, TomTom's speeds on every road, radar, and beach cams.",
-      "url": "https://fl-traffic.paperhurts.dev"
-    },
     "net-profit": {
       "label": "browser game · typescript",
       "blurb": "A cosy isometric fishing tycoon. Tow a net through schools of fish, haul the catch home, build up the boat and the island, then sail further out for bigger things.",
@@ -71,6 +66,12 @@
       "label": "pwa + ios · self-hosted",
       "blurb": "Distraction-free fanfiction reader — share a link from your phone to import, read offline, listen with lock-screen TTS. A self-hosted PWA with a native iOS app.",
       "url": "https://reader.paperhurts.dev"
+    },
+    {
+      "name": "fl-traffic",
+      "label": "web · typescript",
+      "blurb": "A live map of Florida's roads, built around the drives you make: FL511's crashes, closures, and nearly 5,000 cameras, TomTom's speeds on every road, radar, and beach cams.",
+      "url": "https://fl-traffic.paperhurts.dev"
     }
   ]
 }

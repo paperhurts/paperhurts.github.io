@@ -11,7 +11,7 @@ gh repo edit paperhurts/<repo> --add-topic paperhurts-dev
 gh workflow run deploy.yml -R paperhurts/paperhurts.github.io   # optional: publish now instead of waiting for the daily build
 ```
 
-To pin its position or polish the card, add an entry to `projects.config.json`. You can set `label`, `blurb`, `url` (a live site instead of the repo page), and `privacy` (a privacy page on its Pages site, linked in the footer). `extra` holds cards for things that aren't public repos, such as the reader app.
+To pin its position or polish the card, add an entry to `projects.config.json`. You can set `label`, `blurb`, `url` (a live site instead of the repo page), and `privacy` (a privacy page on its Pages site, linked in the footer). `extra` holds cards that don't come from a tagged repo, such as the reader app.
 
 ## Project addresses
 
